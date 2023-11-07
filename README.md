@@ -1,1 +1,1 @@
-# kiko
+# GARCH,ARIMA,PCA
